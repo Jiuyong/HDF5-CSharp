@@ -1,0 +1,8 @@
+G:\研究\HDF5-CSharp-master\HDF5-CSharp\Tensorflow.Keras.HDF5\Tensorflow.Keras.HDF5\obj\Debug\netstandard2.0\Tensorflow.Keras.HDF5.csprojAssemblyReference.cache
+G:\研究\HDF5-CSharp-master\HDF5-CSharp\Tensorflow.Keras.HDF5\Tensorflow.Keras.HDF5\obj\Debug\netstandard2.0\Tensorflow.Keras.HDF5.AssemblyInfoInputs.cache
+G:\研究\HDF5-CSharp-master\HDF5-CSharp\Tensorflow.Keras.HDF5\Tensorflow.Keras.HDF5\obj\Debug\netstandard2.0\Tensorflow.Keras.HDF5.AssemblyInfo.cs
+G:\研究\HDF5-CSharp-master\HDF5-CSharp\Tensorflow.Keras.HDF5\Tensorflow.Keras.HDF5\bin\Debug\netstandard2.0\Tensorflow.Keras.HDF5.deps.json
+G:\研究\HDF5-CSharp-master\HDF5-CSharp\Tensorflow.Keras.HDF5\Tensorflow.Keras.HDF5\bin\Debug\netstandard2.0\Tensorflow.Keras.HDF5.dll
+G:\研究\HDF5-CSharp-master\HDF5-CSharp\Tensorflow.Keras.HDF5\Tensorflow.Keras.HDF5\bin\Debug\netstandard2.0\Tensorflow.Keras.HDF5.pdb
+G:\研究\HDF5-CSharp-master\HDF5-CSharp\Tensorflow.Keras.HDF5\Tensorflow.Keras.HDF5\obj\Debug\netstandard2.0\Tensorflow.Keras.HDF5.dll
+G:\研究\HDF5-CSharp-master\HDF5-CSharp\Tensorflow.Keras.HDF5\Tensorflow.Keras.HDF5\obj\Debug\netstandard2.0\Tensorflow.Keras.HDF5.pdb
